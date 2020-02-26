@@ -23,5 +23,7 @@ Following are the scripts to perform the spectral analysis of the Hamiltonian ma
 
 
 
+
+
  
     
